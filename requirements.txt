@@ -1,0 +1,9 @@
+streamlit
+pandas
+pymongo
+langchain-community
+langchain
+operator
+langchain_core
+torch
+streamlit-option-menu
